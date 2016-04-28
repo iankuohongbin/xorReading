@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <title>商业模式的力量</title>
+    <expansionState>0,1,3,7,10,11,12,13,20,24,25,27,30,33,38,43,44,49,50,58,63,66,67,70,73,74,76,80,83,87,89,91,95,97,101,102,105,109,114,120,121,122,123,129,133,140,147,148,153,154,156,157,160,166,169,171,172,173,180,185,189,193,197,199,202,203,208,210,215,219,223,243,251,257,261,273,278,279,283,285,289,295,298,302,306,308,310,312,314,317,321,323,325,327,329,333,336,339,342,345,347,349,351,354,356,358,360,362,365,367,370,372,375,377,381,383</expansionState>
+  </head>
+  <body>
+    <outline text="定义">
+      <outline text="什么是商业模式？">
+        <outline text="商业模式是一种包含了一系列要素及其关系的工具，用以阐明某个特定实体的商业逻辑。它描述了公司所能为客户提供的价值以及公司的内部结构、合作伙伴网络和关系资本（Relationship Capital）等，用以实现（创造、推销和交付）这一价值并产生可持续盈利收入的要素。"/>
+      </outline>
+      <outline text="商业模式的趋势？">
+        <outline text="深度合作，高度融合持股"/>
+        <outline text="资本盈利"/>
+        <outline text="连续和重复的盈利"/>
+      </outline>
+      <outline text="好的商业模式的描述？">
+        <outline text="第一句话，“自己可以复制自己”；第二句话，“别人很难复制你”"/>
+        <outline text="一听就能听懂，一想想不到头"/>
+      </outline>
+      <outline text="商业模式的组成（6个）？">
+        <outline text="企业收入以哪种产品/服务、在哪个阶段、以哪种方式来获得？收入的可持续性与黏性？收入的爆炸性增长可能？［盈利模式］" _note="方式越与竞争对手不同，越与众不同，竞争门槛就越高&#10;因为开发一个新客户成本约等于维护6个老客户，所以黏性很重要">
+          <outline text="收入倍增模式方式：通过利润扩张阶梯改变赚钱的方式" _note="从利润扩张阶梯往下走，风险确实在增大利润，逼迫你建立自己的核心竞争力，扩张阶梯是引导企业提高核心能力的指南。">
+            <outline text="六个模式">
+              <outline text="产品出售"/>
+              <outline text="服务费"/>
+              <outline text="分成费"/>
+              <outline text="代理模式：代理销售"/>
+              <outline text="代理模式：买断模式"/>
+              <outline text="投资模式"/>
+            </outline>
+            <outline text="放大模式的风险实际比较小，需要两个核心能力">
+              <outline text="完成业务的能力［原本就有的］"/>
+              <outline text="选择合作项目判断的能力，可以不看做是新增的风险，因为如果是卖产品也不一定长久。"/>
+            </outline>
+            <outline text="转型的方向：复购化、资本化、主动推动需求"/>
+          </outline>
+          <outline text="收入倍增的方式：盈利产品重组和改变。对企业盈利源于不同阶段、不同产品线、不同方式布局来获取利润并给竞争对手和后来模仿者制造障碍">
+            <outline text="不同方式［产品、供应链、资本市场］">
+              <outline text="赚小钱：麦当劳的可乐薯条"/>
+              <outline text="赚中钱：">
+                <outline text="麦当劳供应链的集中采购"/>
+                <outline text="麦当劳用技术改造供应链帮助上游产商降低成本"/>
+              </outline>
+              <outline text="赚大钱：">
+                <outline text="专业的选址能力"/>
+                <outline text="麦当劳建立的餐饮文化带动麦当劳商圈，主动推进拉高房产价格"/>
+              </outline>
+            </outline>
+            <outline text="不同阶段［投入、短期、中期、远期］">
+              <outline text="投入期能够承受亏损多少"/>
+              <outline text="短期靠什么盈利"/>
+              <outline text="中期靠什么扩大营业规模"/>
+              <outline text="远期如何获取大量利润甚至控制产业链"/>
+            </outline>
+            <outline text="不同产品[名气、规模、利润、现金流]">
+              <outline text="有的产品名气很大，但不见得有多大利润"/>
+              <outline text="有的产品量大有规模，那就是定位于跑量，利润可能也有"/>
+              <outline text="有的产品消费者可能并未听说过，但是利润却非常丰厚"/>
+              <outline text="有些产品可能既没名，也没利润，但是它有“正向现金流”的贡献。"/>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="“系统性价值链运营”" _note="企业的上游、下游、客户，如何共同形成一个完善的商业生态系统，这是商业模式竞争的最高境界。">
+          <outline text="不同角色成员" _note="［注意企业在不同圈圈里的不同身份］要求我们善于融入一个更大的生态系统，善于利用更大的系统的优势资源来推动自身更好地发展。">
+            <outline text="武林盟主：“先天下之忧而忧，后天下之乐而乐”，可能是最后赚得最多的企业，风险也大"/>
+            <outline text="分堂主：要懂得怎样设计自己的回报机制，比如去加盟体系的股份"/>
+            <outline text="会员：选择明主的能力"/>
+          </outline>
+          <outline text="价值链中成员按角色分工（打群架），效率最高、成本最低、风险最小，并就利润、风险、成本在价值链成员中合理而富有创造性地分配"/>
+        </outline>
+        <outline text="“高竞争门槛，掌控核心资源他人不可复制”。" _note="这一部分往往是VC投资的关键支撑点">
+          <outline text="核心资源／门槛（通过掌握核心资源提高话语权树立竞争门槛）">
+            <outline text="独特的能力"/>
+            <outline text="独特的政策保护优势"/>
+            <outline text="一种高新技术、一个管理系统"/>
+            <outline text="市场占有率／独占性"/>
+            <outline text="一群顶尖专家"/>
+            <outline text="一个房地产"/>
+            <outline text="一种稀缺的原材料、一种优质农业资源等"/>
+          </outline>
+          <outline text="核心资源获得的途径：">
+            <outline text="先天性资源"/>
+            <outline text="后天建立的"/>
+            <outline text="与生俱来的"/>
+            <outline text="并购整合来的"/>
+          </outline>
+        </outline>
+        <outline text="客户的定位和选择，杀手级的隐性核心需求。">
+          <outline text="用户的核心需求：即刚需。MustHave而不是NiceHave"/>
+          <outline text="有独特的客户价值：与众不同，如飘柔"/>
+        </outline>
+        <outline text="企业成本如何进行革命性的降低？">
+          <outline text="革命性降低的方法：">
+            <outline text="采用Web2.0的生产方式［类众包］"/>
+            <outline text="不牺牲客户满意度时，采用除法：彻底消除掉重要成本"/>
+          </outline>
+          <outline text="革命性地降低成本的分类：">
+            <outline text="整个企业整体成本下降50%以上"/>
+            <outline text="某个分项目成本变成0或者20%"/>
+          </outline>
+        </outline>
+        <outline text="企业“自我可复制”，突破自身扩张的瓶颈">
+          <outline text="企业发展的可能瓶颈：">
+            <outline text="资金：设计“轻资产”模式"/>
+            <outline text="人才：">
+              <outline text="标准化实现可复制：鼓励高水平人员自我消灭[股权激励］"/>
+              <outline text="培养人才机制"/>
+            </outline>
+            <outline text="管理等"/>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="企业战略和商业模式的区别？">
+        <outline text="企业战略可以宣传、推广，但商业模式不希望别人看透"/>
+        <outline text="企业战略更侧重的是目标，更加显性、短期；而商业模式重的是路径，怎么去达到目标，重要的是布局，更加长期。"/>
+      </outline>
+      <outline text="商业模式与资本运营的关系？">
+        <outline text="资本运营是很多商业模式实现的重要途径之一。" _note="即很多商业模式中包含了资本运营这一手段"/>
+        <outline text="资本运营靠投资商业模式来实现盈利"/>
+      </outline>
+      <outline text="中国企业如何利用商业模式实现转型升级？"/>
+      <outline text="技术与商业模式的关系？">
+        <outline text="一项技术如果没有一个商业化的方法，没有一个商业化的成功的模式，这项技术就没有任何意义。"/>
+      </outline>
+      <outline text="商业模式的实现？">
+        <outline text="商业模式考虑的是长久的利益，比如10年赚10倍利润。坚持下去，要靠正确的方向和日积月累的努力。"/>
+      </outline>
+      <outline text="企业领导者关注的三个核心关键？">
+        <outline text="管理模式：如何抓生产，搞财务，抓销售"/>
+        <outline text="商业模式："/>
+        <outline text="资本模式："/>
+      </outline>
+      <outline text="连锁行业的本质是什么？">
+        <outline text="房地产／类房地产。"/>
+      </outline>
+      <outline text="商业模式的创新：">
+        <outline text="寻找出你的假设与前提到底是什么”"/>
+        <outline text="探讨推翻你的假设和前提"/>
+        <outline text="颠覆了过去我们所见的各种各样的行业认识、假设，创新就来临了"/>
+      </outline>
+      <outline text="商业模式创新的路径：">
+        <outline text="跨行业、跨国界进行复制" _note="只能是借鉴思路、概念、方向">
+          <outline text="关键在于你必须复制跨行业商业模式的精髓、方法论和内在本质，而不是复制所谓的表象。"/>
+        </outline>
+        <outline text="与客户交流、寻找创新"/>
+      </outline>
+      <outline text="商业创新过程的关键：行业洞察力">
+        <outline text="行业内的人士总在一些非核心问题上纠缠，往往无法看清行业的内在本质"/>
+        <outline text="VC可以很快看到行业的内在本质，见多识广，洞察力、穿透力。"/>
+        <outline text="VC的一句话、一个模式建议，甚至是一个批评，往往可能让企业少走几年弯路，或者把握住难得的机遇。"/>
+      </outline>
+      <outline text="商业模式中的优秀盈利模式：">
+        <outline text="自身要赚钱"/>
+        <outline text="赚长钱"/>
+        <outline text="能赚到资本市场的钱"/>
+        <outline text="盈利模式本身能够阻碍对手和你进行恶性竞争"/>
+      </outline>
+      <outline text="用户的隐性需求分类">
+        <outline text="客户无法清晰表达的需求"/>
+        <outline text="客户无法公开表述的需求"/>
+        <outline text="竞争对手尚未发现的需求"/>
+        <outline text="众人皆知但未满足的需求"/>
+      </outline>
+      <outline text="收入重要的特点是：连续性和重复购买"/>
+      <outline text="常见的商业模式">
+        <outline text="从价值链和行业要素入手">
+          <outline text="平台模式：">
+            <outline text="特点">
+              <outline text="外行转内行"/>
+              <outline text="力图构建一种基础[用户越来越懒]"/>
+              <outline text="以平台为中心，平台价值随着互补者增多和增加"/>
+              <outline text="平台领导者着眼于整个产业链的控制整合和创新"/>
+              <outline text="互补者和领导者是一把双刃剑（微软和IBM）"/>
+            </outline>
+            <outline text="盈利">
+              <outline text="商家端收费比消费者端收费更容易"/>
+              <outline text="匹配多个产品线，以免费为支撑、别的产品为盈利"/>
+              <outline text="平台的运作效率非常重要"/>
+            </outline>
+          </outline>
+          <outline text="网模式">
+            <outline text="结构洞（企业去链接不同的网络，创造价值）"/>
+            <outline text="让点与点更多合适的连接，多渠道"/>
+            <outline text="点与点的连接要紧密（重多不重大）"/>
+            <outline text="点小没有关系，关键时参与到网络中"/>
+            <outline text="多种产品交叉销售"/>
+            <outline text="最高境界是构建生态系统（上下游、多渠道）" _note="波音开放资料构建生态，不知道会不会造成新的竞争对手"/>
+            <outline text="特点：">
+              <outline text="不建网就借网"/>
+              <outline text="争取成为网络生态中的核心物种"/>
+              <outline text="所有点都该融入到网络中"/>
+              <outline text="网整合更多资源"/>
+              <outline text="网的概念是让企业的边界发生改变"/>
+              <outline text="网络时是利润倍增的利器"/>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="从公司层级入手">
+          <outline text="资源衍生模式" _note="一鱼多吃">
+            <outline text="重复利用优质资产"/>
+            <outline text="大量消费产品可以帮助建立强有力的资源衍生体系"/>
+            <outline text="衍生产品和项目必须和现有资源有紧密的联系，不要为了衍生而衍生"/>
+            <outline text="如果缺乏某些因素才能实现资源衍生，那么可以整合进新的合作伙伴"/>
+          </outline>
+        </outline>
+        <outline text="从产品和服务要素入手">
+          <outline text="产品开门模式" _note="当移动公司把手机送给你的时候，你和它的生意关系才刚刚开始，而不是结束">
+            <outline text="想利用开门模式赚钱的企业要特别注意进入别的行业是否胜任，引进新产品或服务公司能否应付得来"/>
+          </outline>
+          <outline text="产品金字塔模式" _note="塑造各层次的产品布局">
+            <outline text="金字塔模式的关注点">
+              <outline text="对企业的区别是价格和利润率"/>
+              <outline text="对用户的区别是品牌、设计风格、功能、文化情感等因素"/>
+            </outline>
+            <outline text="金字塔的特点">
+              <outline text="客户需求和收入有明显差异时"/>
+              <outline text="由不同价格、品牌、风格、设计、功能产品组成的结构"/>
+              <outline text="底部是防火墙，高端部分是利润的油脂层"/>
+              <outline text="要避免不同产品线形成伤害"/>
+              <outline text="不同层次间能形成开门模式"/>
+            </outline>
+            <outline text="金字塔模式的布局目的">
+              <outline text="开拓新市场"/>
+              <outline text="布下防火墙避免潜在对手做大"/>
+            </outline>
+            <outline text="金字塔模式的潜在威胁">
+              <outline text="低端产品对高端产品产生的关联认知损害"/>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="从公司与客户交易行为入手">
+          <outline text="免费模式" _note="让一方完全承担风险、互联网经济让做免费决定的另一方也承担极小的边际成本，所以免费成了通用标准">
+            <outline text="免费模式的应用">
+              <outline text="提供试用品，破冰、增强负疚感"/>
+              <outline text="形成依赖性"/>
+              <outline text="先给予后索取：宜家的便宜餐饮"/>
+              <outline text="第三方付费"/>
+              <outline text="将免费掉的利润让利给经销商"/>
+            </outline>
+            <outline text="在跨界竞争中经常用到免费模式来抢夺市场"/>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="经销商如何转型：">
+        <outline text="电商模式"/>
+        <outline text="全国或区域连锁发展"/>
+        <outline text="发展成产品品牌商［高利润率、自控品牌、控制力、差异性］"/>
+        <outline text="转型为服务商[美国卡地纳医药]"/>
+      </outline>
+      <outline text="互联网平台模式公司：">
+        <outline text="外行转内行"/>
+        <outline text="发挥互联网的优势"/>
+        <outline text="前期需要大量资金投入"/>
+      </outline>
+    </outline>
+    <outline text="关联阅读">
+      <outline text="学习zara案例"/>
+      <outline text="智弈——没有输家的博弈"/>
+      <outline text="非常时期领导力"/>
+    </outline>
+    <outline text="Tips：">
+      <outline text="得商业模式与资本者得天下"/>
+      <outline text="从市场经济的规律来讲，零售环节的利润就是高于组装生产" _note="为什么？应该是基于微笑曲线吧，但是日本索尼也提出了相反的武藏曲线，认为国制造业被微笑曲线所迷惑，是因为：我们企业管理水平不高，“制造”应有的利润远远没有体现出来。"/>
+      <outline text="企业的成本＝固定成本＋变动成本，轻资产指的是低固定成本，这样企业的经营风险就能够大大降低，更受风投青睐。"/>
+      <outline text="现代市场经济的游戏规则和价值链条">
+        <outline text="企业通过依托于商业模式的利润，可以受到资本市场青睐而上市，资本市场的利润就是在企业年利润的基础之上，通过资本市场放大20～50倍（中国企业的发展方向）" _note="这句我不是很懂，我的理解是通过资本市场的认可和投资来加速发展，增加企业年利润，而所谓的资本市场的利润我不是很了解。"/>
+      </outline>
+      <outline text="资本市场投资看重什么？">
+        <outline text="资本投的是一个企业的未来，这个未来的保障就是商业模式，需要“一听就能听懂，一想想不到头”"/>
+        <outline text="资本希望投商业模式，因为好的商业模式表示这个事你能做，别人有门槛，能够让你的企业有定价权，意味着可以获得高利润。"/>
+        <outline text="VC的投资选择项目永远都是两个核心：">
+          <outline text="第一是团队，人很关键">
+            <outline text="诚信度"/>
+            <outline text="执行力"/>
+            <outline text="能不能打造出一个成功的商业模式"/>
+          </outline>
+          <outline text="第二，商业模式，模式是根本。"/>
+        </outline>
+      </outline>
+      <outline text="行业的分布">
+        <outline text="在中国蓬勃发展的今天，在非高科技领域具备高成长性的传统行业比比皆是，并不局限于高科技领域。" _note="不过互联网的确是国家发展的重点，只是眼光不要太狭隘了。"/>
+      </outline>
+      <outline text="创业板的推荐原则：三高六新">
+        <outline text="高成长性、高科技、高附加值；新经济、新服务、新农村、新能源、新材料、新商业模式"/>
+      </outline>
+      <outline text="毛利率：毛利率等于毛利除以收入"/>
+      <outline text="企业经营中定价权最宝贵。"/>
+      <outline text="融资并不是单纯“融资金”，更是“融资源”"/>
+      <outline text="赊销与代销">
+        <outline text="赊销：经销商承担亏损"/>
+        <outline text="代销：品牌工厂承担亏损"/>
+      </outline>
+      <outline text="“控制力”往往比利润更重要。有控制力和没控制力是完全不同的，资本市场投资的是未来，就是要考虑5年以后企业经营能否更上一层楼，而不是面临重大经营风险或不可预期性。"/>
+      <outline text="对于公司收购外资公司的几种方法">
+        <outline text="蛇吞象：收购公司"/>
+        <outline text="蛇骑象：收购公司核心要素（品牌、技术、研发系统）"/>
+        <outline text="蛇引象：收购公司资源（客户关系、渠道网络、专家资源）"/>
+      </outline>
+      <outline text="一个企业的价值链：">
+        <outline text="前端研发、零部件生产组"/>
+        <outline text="组装、批发"/>
+        <outline text="营销、零售、服务"/>
+      </outline>
+      <outline text="我们每天朝九晚五的工作，并不是因为你的模式与战略是多么的正确，并不是因为你的未来多么的光明与美好，而是因为你已经习惯了。"/>
+      <outline text="房租是零售连锁最大的成本之一"/>
+      <outline text="很多企业所谓的“复制”往往都只能复制外在的表象，往往都只能复制一个概念和一个提法，并无法复制到整个企业的关键性运营系统"/>
+      <outline text="关心客户，企业能够变得与众不同、脱颖而出；关注竞争对手，往往一直陷入激烈的竞争而不能自拔。"/>
+      <outline text="一个商业模式要看的是5年、10年、20年，再长就不一定了，都会随着时代而改变的。"/>
+      <outline text="我们要少去麦当劳吃汉堡，但要多去麦当劳学管理。"/>
+      <outline text="中国房地产公司的商业模式简单而粗暴，但是，反过来看，全球超过40%的项目最终依靠房地产成为主要的盈利点或支撑点。"/>
+      <outline text="延长你的价值链，这样盈利点会增加。"/>
+      <outline text="利润是与风险紧密匹配的，不应该单纯谈利润，如果商业模式是“无风险赚小利，小风险赚中利，中风险赚大利，大风险赚暴利”，那么这类模式还是可接受的。"/>
+      <outline text="我们要高度关注利润是有属性的，有的利润只是在业务市场领域，而真正赚大钱的往往都是在资本市场。"/>
+      <outline text="利润的所谓属性不同、未来增长前景不同。所以，各位读者设计盈利模式的时候，要关注盈利模式是不是既能让业务市场认可，也能让资本市场长期认可。"/>
+      <outline text="企业的最高境界就是赚大钱，别人还不知道你。利乐已经达到这个至高境界了。"/>
+      <outline text="对于一个企业最迫切的需求就是赚钱的能力，做一个长青企业的能力，要是能满足这两个企业的这两个需求就很牛了。商学院满足了一部分。"/>
+      <outline text="代理类业务称为“奶妈型业务”，“奶妈型业务”的不可控风险比较大，其风险在于缺乏控制力，你的控制权拱手让给了品牌拥有者。"/>
+      <outline text="赚钱环节越是后置，竞争门槛越高。"/>
+      <outline text="赚钱最重要的是要有创造性的与众不同的方式来获取利润。"/>
+      <outline text="一个关系">
+        <outline text="单价低不等于毛利率低：因为成本结构可以更低"/>
+        <outline text="毛利率低不等于净利润低：因为费用结构可以很低、风险结构可以很优化：商业银行"/>
+        <outline text="净低利润率不等于低收益率：因为周转次数高，财务杠杆高：国美苏宁"/>
+        <outline text="低收益率不等于低收益：因为有额外价值：麦当劳的房地产等额外价值"/>
+      </outline>
+      <outline text="财务杠杆就是通过多少自有资金来实现企业利润。如果自有资本金比较少，通过银行贷款或通过大量上下游的业务融资，使得利润比较高，而不是大量使用宝贵的自有资本金，这样的话，投资回报率完全不一样。"/>
+      <outline text="你提供给客户一个服务价值表现10元，但是你前后付出的管理成本远远大于10元的直接成本。"/>
+      <outline text="在企业的发展过程中，通常都会遇到瓶颈，能否事先发现这个瓶颈，然后予以有效地应对和突破，决定了我们的商业模式能走多远，企业能走多远。"/>
+      <outline text="连锁行业对资金的需求压力来自：">
+        <outline text="货品库存"/>
+        <outline text="店面房族"/>
+        <outline text="人员费用"/>
+        <outline text="推广费用"/>
+      </outline>
+      <outline text="什么是好的机制？就是让留下来的人比自己出去单干要赚得更多、风险要更小、成本要更低、赚钱更容易，还更有面子。"/>
+      <outline text="制造业有很多成型的控制质量的便利方法：">
+        <outline text="模具－标准化"/>
+        <outline text="流水线作业"/>
+        <outline text="6西格玛"/>
+      </outline>
+      <outline text="企业未来发展的方向是什么？大规模的个性化。无论是制造业还是服务业都是大规模个性化的发展方向，当然，难度很大。如果企业商业模式能够实现大规模个性化，那么一个优秀的商业模式可能已经摆在你面前了">
+        <outline text="内部标准化"/>
+        <outline text="外部个性化"/>
+      </outline>
+      <outline text="风险投资所投资的项目，都是那些有控制力的项目，因为只有掌握控制力才能够让利润可以持续5年、10年的发展。有了控制力，有了高进入门槛就意味着有了定价权，而定价权才是企业应该削尖脑袋追求的关键要点。"/>
+      <outline text="光有想法是没有意义的，关键是要尽快去实现，更重要的是往前跑，快速实现所设定的目标，快速实现所设定的价值。另外，保密是保不住的"/>
+      <outline text="如果一个商业模式需要依靠保密来维持竞争优势，是不靠谱的。企业商业模式的竞争力应依靠掌控别人无法掌控的核心资源来实现。"/>
+      <outline text="无论在哪个行业，一定要清楚地认识到，企业经营的制高点就是抢夺控制力，商业模式设计的制高点就是最终形成企业的价值链控制力。"/>
+      <outline text="同行是用来整合的，上下游是用来协同的，异业是用来联盟的，而跨行业复制，就是创新"/>
+      <outline text="房地产的特性：垄断性、稀缺性→定价权"/>
+      <outline text="“看不见，看不起，看不懂到追不上”（马云语）的过程？企业家摆脱这些困境的最有效方法就是学习商业模式"/>
+      <outline text="平台模式的出现就成为可能呢？当一个行业中，有许多卖家找不到消费者，同时有很多买家找不到卖家，这时平台模式的产生就有了非常现实的基础。"/>
+      <outline text="不能建网就借用现成的网络，最好是拥有自己的网络，但不是所有公司都做得到。"/>
+      <outline text="互联网的特点">
+        <outline text="搭建平台时需要大量资金投入→所以引入了风险投资"/>
+        <outline text="边际成本小"/>
+      </outline>
+      <outline text="你的优势往往也是你的劣势：比如赵本山的影响力可以建造起很多周边，但是脱离赵本山就会贬值严重"/>
+      <outline text="著名管理学大师彼得·德鲁克所言：“21世纪企业的竞争，不再是产品与服务之间的竞争，而是商业模式之间的竞争。"/>
+    </outline>
+    <outline text="关联案例">
+      <outline text="85度咖啡" _note="单店月净利润率20%">
+        <outline text="不强调翻桌率，坚持外带率"/>
+        <outline text="颠覆了星巴克的咖啡文化，创建了廉价咖啡"/>
+      </outline>
+      <outline text="中国门户网站的第一桶金是SP短信"/>
+      <outline text="百丽牢牢控制了零售终端，控制了鞋业市场，很少投放广告，不像奥康、红蜻蜓公司广告满天飞。百丽毛利率长期高达62%。">
+        <outline text="用1/3～1/2柜台控制百货商场（百货商场占女鞋销量71%）"/>
+      </outline>
+      <outline text="苏宁国美">
+        <outline text="奶妈的专业化、规模化："/>
+        <outline text="高的资金周转率"/>
+        <outline text="大多数利润来自向上游收取的费用，不如麦当劳"/>
+      </outline>
+      <outline text="Kappa中国动向">
+        <outline text="精准定位：那些宣称要运动但从不运动的人，那些想有运动感觉但不想出汗的人"/>
+        <outline text="掌握核心资源：融资38MUSD购买品牌使用权"/>
+        <outline text="早期通过经销商、中间商］加盟商迅速铺开市场"/>
+        <outline text="合适的时候将公司收购回来，增强企业控制力"/>
+      </outline>
+      <outline text="联想收购了IBM，不少消费者就潜意识里觉得IBM的PC质量下降了。"/>
+      <outline text="凡客诚品">
+        <outline text="定位：懒男人"/>
+        <outline text="竞争门槛：依附于互联网客户体验的重大突破"/>
+      </outline>
+      <outline text="3M公司">
+        <outline text="拥有“自营事业”的机会" _note="3M人成功推出一种新产品后可以得到机会把这种产品视为自己的计划，由部门来经营（视产品销售额水准而定）以刺激内部创业精神"/>
+        <outline text="25%的规定" _note="要求每个部门前5年推出的产品和服务生产的营收应占年度总营收的25%以上"/>
+        <outline text="15%业余时间的规定"/>
+      </outline>
+      <outline text="戴尔：">
+        <outline text="直销的概念和方向好理解、好复制，但是戴尔为直销模式构建的庞大直销系统难以复制"/>
+        <outline text="实现大规模个性化"/>
+        <outline text="核心竞争优势：群居价值链［物理位置上、信息集成上］、柔性供应链能力、超强供应链"/>
+      </outline>
+      <outline text="宝洁各洗发水：">
+        <outline text="飘柔、潘婷、沙宣的不同定位将洗发从洗干净拉升到一个柔顺、营养、时尚的层次，抓住了消费者的心智。"/>
+      </outline>
+      <outline text="霸王洗发水：">
+        <outline text="独特的定位：育发防脱"/>
+      </outline>
+      <outline text="帮工厂做外包洗衣服的公司">
+        <outline text="精准定位，满足了大中型工厂的杀手级隐性核心需求。"/>
+      </outline>
+      <outline text="麦当劳 商业模式：房地产模式">
+        <outline text="赚小钱：麦当劳的可乐薯条"/>
+        <outline text="赚中钱：">
+          <outline text="麦当劳供应链的集中采购"/>
+          <outline text="麦当劳用技术改造供应链帮助上游产商降低成本"/>
+        </outline>
+        <outline text="赚大钱：">
+          <outline text="专业的选址能力"/>
+          <outline text="麦当劳建立的餐饮文化带动麦当劳商圈，主动推进拉高房产价格"/>
+        </outline>
+        <outline text="快餐连锁与商业地产紧密协同，互相支撑，自成系统"/>
+      </outline>
+      <outline text="橡果国际">
+        <outline text="买断产品电视营销"/>
+      </outline>
+      <outline text="盛景网联">
+        <outline text="从商业培训［服务费］→对接VC融资顾问［分成方式］→转型投资、顾问、发起投资基金［股权方式］"/>
+      </outline>
+      <outline text="利乐包装">
+        <outline text="卖设备[产品销售]→卖包装耗材[服务费]→卖管理系统［卖赚钱的能力］主动推动用户需求、也树立了竞争门槛"/>
+      </outline>
+      <outline text="工厂空气提供">
+        <outline text="卖设备→卖空气［连续性、重复购买］"/>
+      </outline>
+      <outline text="商业银行">
+        <outline text="存贷差毛利率低：只有2％"/>
+        <outline text="风险结构优化：背靠背的风险控制能力"/>
+        <outline text="费用结构低：超大规模平摊下来后边际成本低，利润高"/>
+      </outline>
+      <outline text="百度">
+        <outline text="依靠搜索收入模式"/>
+        <outline text="实现规模化、个性化的付费点击交付能力，提高客户满意度同时降低了自身运营成本"/>
+      </outline>
+      <outline text="航空公司">
+        <outline text="取消中转时来不及吃的三明治"/>
+        <outline text="10元的成本，前后的管理成本至少100元"/>
+      </outline>
+      <outline text="如家">
+        <outline text="经济型酒店除去对目标客户要求不高的娱乐设施、会议设施、豪华大堂、购物场所"/>
+        <outline text="他的客户只需要两件半：睡觉、洗澡、上网"/>
+      </outline>
+      <outline text="ITAT">
+        <outline text="利用中国商业地产过剩、加工能力过剩与商业地产和服装加工厂实施分成模式，实现零场租零库存的轻资本模式，同时也让上游得到了分成收入"/>
+        <outline text="也因为过剩了才有人愿意承担风险争取高收益"/>
+      </outline>
+      <outline text="分众传媒">
+        <outline text="融资突破资金门槛，快速跑马圈地占领市场"/>
+      </outline>
+      <outline text="携程网">
+        <outline text="以制造业标准运作服务业：6西格玛服务标准"/>
+      </outline>
+      <outline text="zara">
+        <outline text="实现大规模个性化[设计、生产、销售]"/>
+      </outline>
+      <outline text="红星美凯龙">
+        <outline text="典型的商业地产连锁模式"/>
+        <outline text="独创性地完成了建材百货商场的连锁模式"/>
+      </outline>
+      <outline text="IBM">
+        <outline text="将操作系统和微处理器外包给微软和Intel（火了微软和英特尔）" _note="外包思路没错，外包的环节也勉强可以、但是不能让一家独大，考虑自身的稀缺性和别人的可替代性"/>
+      </outline>
+      <outline text="波音787">
+        <outline text="将飞机各零件外包给合作伙伴、并建立起一套高效标准化的流程" _note="这套流程是波音整合资源的核心资源"/>
+      </outline>
+      <outline text="iPhone">
+        <outline text="赚取运营商利润"/>
+      </outline>
+      <outline text="九阳豆浆机">
+        <outline text="转型卖豆料" _note="这里有个问题，在开门模式时，你是不是为新的盈利模式做了足够的准备吧，会不会为别人做嫁衣，自己在新的行业里供应链等能处理好吗？"/>
+      </outline>
+      <outline text="Swatch">
+        <outline text="注明机芯品牌"/>
+        <outline text="另外有能力如此控制下游的有杜邦的莱卡和Intel"/>
+      </outline>
+      <outline text="资生堂">
+        <outline text="推销低端产品时口头告知是同一集团的而不是文字，对品牌伤害不大"/>
+      </outline>
+      <outline text="赵本山">
+        <outline text="以自己影响力为核心资源建造周边产业"/>
+        <outline text="平台模式、资源衍生模式"/>
+      </outline>
+      <outline text="王老吉">
+        <outline text="上火的定位挖掘了隐性核心需求"/>
+      </outline>
+      <outline text="美国运通">
+        <outline text="主动推动下游持卡人消费"/>
+        <outline text="让其他银行成为了发卡机构，让银行赚利息，自己赚返点"/>
+      </outline>
+      <outline text="李阳英语">
+        <outline text="演讲→买书→培训班→夏令营"/>
+      </outline>
+    </outline>
+    <outline text="关联人物">
+      <outline text="管理学大师彼得·德鲁克"/>
+      <outline text="中国动向"/>
+      <outline text="三一重工向文波总裁"/>
+    </outline>
+    <outline text="企业商业模式的评估">
+      <outline text="是否创造了独特、别人无法复制的客户价值"/>
+      <outline text="企业达到的目标">
+        <outline text="制造企业 年销售额200M以上，毛利率30%，税后净利润率10%"/>
+        <outline text="服务业企业 年销售额 50M以上，毛利率60%，税后净利润率20%"/>
+      </outline>
+      <outline text="企业的增长速度：过去和未来三年以30%速度增长"/>
+      <outline text="有与众不同的创新独特的收入获得方式"/>
+      <outline text="客户重复购买率50%"/>
+      <outline text="革命性消除了行业内企业普遍存在的重要成本"/>
+      <outline text="突破了扩张瓶颈"/>
+      <outline text="具有快速复制能力并做到标准化"/>
+      <outline text="你的商业模式具有高竞争门槛"/>
+      <outline text="在上下游合作中居于主动或合理平等的地位"/>
+      <outline text="自己可以复制自己，别人很难复制你"/>
+      <outline text="一听就能听懂、一想想不到头"/>
+    </outline>
+    <outline/>
+  </body>
+</opml>
